@@ -18,9 +18,6 @@ https://spotify.com
 ### ChatGPT (Email + Password)
 https://chat.openai.com/
 
-### AMC Forum
-https://amcforum.wiki
-
 ### Crazygames
 https://crazygames.com
 
